@@ -3,4 +3,4 @@
 Your goal is to place the slider as close as possible to the target value. The closer you are, the more points you score.
 
 ![](Images/BullsEye_1.png)
-![](images/BullsEye_2.png)
+![](Images/BullsEye_2.png)
